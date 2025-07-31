@@ -31,7 +31,7 @@ Este proyecto implementa una API RESTful desarrollada en PHP y MySQL para gestio
 
 3. Verifica o edita el archivo `config/conexion.php` con tu configuración:
    ```php
-   $conexion = new mysqli("localhost", "root", "", "bodega_reciclajedb", 3307);
+   $conexion = new mysqli("localhost", "root", "root", "bodega_reciclajedb", 3307);
    ```
 
 4. Ejecuta el servidor local y accede a los endpoints desde Postman o el navegador.
