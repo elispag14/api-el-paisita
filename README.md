@@ -24,7 +24,7 @@ Este proyecto implementa una API RESTful desarrollada en PHP y MySQL para gestio
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/api-el-paisita.git
+   git clone https://github.com/elispag14/api-el-paisita
    ```
 
 2. Importa la base de datos `bodega_reciclajedb` en phpMyAdmin.
